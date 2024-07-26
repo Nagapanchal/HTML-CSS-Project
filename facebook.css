@@ -1,0 +1,70 @@
+*{
+    text-decoration: none;
+
+   }
+   i{
+    color: blue;
+    margin-left: 10px;
+    text-shadow: 3px 2px 4px rgb(37, 11, 234);
+    
+   }
+   .main{
+    background-color: orange;
+    padding: 0 10px;
+    border: 1px solid;
+   }
+   .maindiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   }
+   .logo a{
+    font-size: 30px;
+    font-weight: 600;
+    color: blue;
+    text-shadow: 2px 2px 10px rgb(223, 218, 218);
+   }
+   li{
+    list-style: none;
+    display: inline-block;
+   }
+   li a{
+    color: aliceblue;
+    font-weight: bold;
+    margin-left: 25px;
+   }
+   button{
+    background-color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    width: 90px;
+   }
+   button a{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 15px;
+   }
+   .main .maindiv li a:hover{
+    color: black;
+   }
+   .box2{
+    i{
+        font-size: 50px;
+        display: inline-block;
+    }
+    background-color: rgb(80, 80, 120);
+    font-size: 40px;
+    height: 200px;
+    width: 500px;
+    border: 2px solid ;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-top: 3%;
+    padding-top: 8px;
+    li{
+        margin-top: 70px;
+        font-size: 20px;
+        margin-left: 25px;
+    }
+   }
